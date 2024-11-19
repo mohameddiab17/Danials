@@ -15,6 +15,3 @@ A modern and visually appealing website showcasing a restaurant's menu, services
 - **JavaScript**: Adds interactivity and dynamic elements.
 - **Bootstrap**: Ensures a responsive and mobile-friendly design.
 
----
-
-Would you like me to craft a LinkedIn post for this project as well?
